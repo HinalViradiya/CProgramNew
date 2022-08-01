@@ -1,18 +1,19 @@
 // Use of Class
 
-#include <iostream> //include Statement (files)
+#include <iostream> //Include Statement (files)
 using namespace std;
 
 class person /// class Declaration
 {
-    char name[20];  //Member Variable Declaration
+    char name[20]; // Member Variable Declaration
     int age;
 
 public:
-    void getData(void);  // Member Function Declaration
+    void getData(void); // Member Function Declaration
     void putData(void);
 };
-void person ::getData(void)
+
+void person ::getData(void) // Member Function Defination outside the Class
 {
     cout << "Enter the Name ::";
     cin >> name;
@@ -28,8 +29,8 @@ void person ::putData(void)
 }
 int main()
 {
-    person p;
-    p.getData();
+    person p;    // Class Object Creation
+    p.getData(); // Called Member functionn with class object
     p.putData();
     return 0;
 }
