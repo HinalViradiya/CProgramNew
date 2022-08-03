@@ -72,7 +72,10 @@
         "typeindex": "cpp",
         "typeinfo": "cpp",
         "64UPDERN.C": "cpp",
-        "65SERIRE.C": "cpp"
+        "65SERIRE.C": "cpp",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "math.h": "c"
     },
     "C_Cpp.errorSquiggles": "Enabled"
 }

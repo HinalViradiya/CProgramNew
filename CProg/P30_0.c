@@ -12,7 +12,7 @@ int main()
     int rem = 0, noOfDigit = 0, last = n1 % 10;
     while (n1 > 0)
     {
-        rem = n1 % 10;
+        // rem = n1 % 10;
         n1 /= 10;
         noOfDigit++;
     }
