@@ -25,12 +25,12 @@ int main()
         merge[s] = no2[i];
         s++;
     }
-    // s = n1 + n2;
-    for (int i = 0; i < s; i++)
-    {
-        printf("%d ", merge[i]);
-    }
-
+    /*  // print merge array
+     for (int i = 0; i < s; i++)
+     {
+         printf("%d ", merge[i]);
+     }
+  */
     for (int i = 0; i < s; i++)
     {
         for (int j = i + 1; j < s; j++)
@@ -43,7 +43,7 @@ int main()
             }
         }
     }
-    printf("Merge Sorted Array is :\n ");
+    printf("\nMerge Sorted Array is :\n ");
     for (int i = 0; i < s; i++)
     {
         printf("%d ", merge[i]);

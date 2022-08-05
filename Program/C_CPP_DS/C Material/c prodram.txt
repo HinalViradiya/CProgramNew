@@ -19,7 +19,7 @@
 	Convert to dollar into Rupees.
 	Convert to Feet into Inches.
 	Convert to Inches into Centimeter.	
-	Convert to Celsius into Fahrenheit. (0c*(9/5) + 32 =32F)
+	Convert to Celsius into Fahrenheit. F=((c*9)/5) + 32 
 
 	C program to calculate Area of Circle.
 	C program to calculate Area of Square.
