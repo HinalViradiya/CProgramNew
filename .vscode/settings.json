@@ -75,7 +75,8 @@
     "65SERIRE.C": "cpp",
     "stdio.h": "c",
     "stdlib.h": "c",
-    "math.h": "c"
+    "math.h": "c",
+    "p65_0.C": "cpp"
   },
   "C_Cpp.errorSquiggles": "Enabled",
   "C_Cpp_Runner.cCompilerPath": "gcc",

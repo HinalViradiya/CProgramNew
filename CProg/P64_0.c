@@ -21,15 +21,8 @@ int main()
         printf("\nEnter Name :");
         scanf("%s", l1[i].name);
         printf("Enter Numb :");
-        // scanf("%[^\n]s", l1[i].name);
         scanf("%d", &l1[i].num);
-        // printf("\n[%s - %d]", l1[i].name, l1[i].num);
     }
-    /*  printf("\n1 List :\n");
-     for (int i = 0; i < n; i++)
-     {
-         printf("\n[%s - %d]", l1[i].name, l1[i].num);
-     } */
 
     for (int i = 0; i < n; i++)
     {
@@ -37,7 +30,6 @@ int main()
         {
             if (l1[i].num > l1[j].num)
             {
-
                 sprintf(tname, "%s", l1[i].name);
                 sprintf(l1[i].name, "%s", l1[j].name);
                 sprintf(l1[j].name, "%s", tname);
