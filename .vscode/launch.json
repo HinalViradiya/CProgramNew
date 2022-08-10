@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "d:/CProgram/CProg",
-      "program": "d:/CProgram/CProg/build/Debug/outDebug",
+      "cwd": "d:/CProgram/c++/Other",
+      "program": "d:/CProgram/c++/Other/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

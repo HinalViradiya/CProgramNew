@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
-// cpp menu driven program  of bank to deposite amount,widthdrow amount and show balance using class and counstructor
-
+/* cpp menu driven program
+of bank to deposite amount, widthdrow amount
+and show balance using class and counstructor*/
 
 class Bank
 {
@@ -16,19 +17,23 @@ public:
     }
 };
 
-Bank :: Bank (int bal){
+Bank ::Bank(int bal)
+{
     balance = bal;
 }
 
-int main(){
+int main()
+{
 
     Bank b1(1000);
     Bank b2 = Bank(200);
 
-    cout << "\nObject 1 : "<< "\n";
+    cout << "\nObject 1 : "
+         << "\n";
     b1.display();
-    
-    cout << "\nObject 2 : "<< "\n";
+
+    cout << "\nObject 2 : "
+         << "\n";
     b2.display();
 
     return 0;

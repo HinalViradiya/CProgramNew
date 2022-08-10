@@ -15,4 +15,5 @@ int main()
         f = f1;
         f1 = ans;
     }
+    return 0;
 }

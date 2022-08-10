@@ -69,11 +69,11 @@ Program to Find the Intersection of Two Lists  // half
 Program to Create a List of Tuples with the First Element as the Number and Second Element as the Square of the Number
 Program to Find all Numbers in a Range which are Perfect Squares and Sum of all Digits in the Number is Less than 10
 Program to Find the Cumulative Sum of a List where the ith Element is the Sum of the First i+1 Elements From The Original List
-Program to Generate Random Numbers from 1 to 20 and Append Them to the List
+Program to Generate Random Numbers from 1 to 20 and Append Them to the List // done
 program to Sort a List of Tuples in Increasing Order by the Last Element in Each Tuple
-Program to Swap the First and Last Value of a List
-Program to Remove the Duplicate Items from a List
-Program to Read a List of Words and Return the Length of the Longest One
+Program to Swap the First and Last Value of a List // done
+Program to Remove the Duplicate Items from a List  // done
+Program to Read a List of Words and Return the Length of the Longest One  // remain
 Program to Remove the ith Occurrence of the Given Word in a List where Words can Repeat
 Program to Remove All Tuples in a List of Tuples with the USN Outside the Given Range
 Program to solve Maximum Subarray Problem using Divide and Conquer
@@ -120,9 +120,9 @@ Program to Determine Whether a Given Number is Even or Odd Recursively
 Program to Determine How Many Times a Given Letter Occurs in a String Recursively
 Program to Find the Fibonacci Series Using Recursion   // done
 Program to Find the Factorial of a Number Using Recursion  // done
-Program to Find the Sum of Elements in a List Recursively
-Program to Find the Binary Equivalent of a Number Recursively
-Program to Find the Sum of the Digits of the Number Recursively
+Program to Find the Sum of Elements in a List Recursively  // done
+Program to Find the Binary Equivalent of a Number Recursively  
+Program to Find the Sum of the Digits of the Number Recursively  //Done
 Program to Find the LCM of Two Numbers Using Recursion
 Program to Find the GCD of Two Numbers Using Recursion
 Program to Find if a Number is Prime or Not Prime Using Recursion
