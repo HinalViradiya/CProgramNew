@@ -8,6 +8,7 @@ int main()
 
     printf("\nEnter the String :");
     gets(name);
+    
     // scanf("%[^\n]s",str);   Get String with space character
 
     for (int i = 0; name[i] != '\0'; i++)

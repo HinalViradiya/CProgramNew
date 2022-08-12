@@ -52,52 +52,52 @@
 
 
 54.Program to Count Set Bits in a Number
-Program to Find Whether a Number is a Power of Two
-Program to Clear the Rightmost Set Bit of a Number
+
+56.Program to Clear the Rightmost Set Bit of a Number
 Program to Generate Gray Codes using Recursion
 Program to Convert Gray Code to Binary
 Program to Convert Binary to Gray Code
-Program to Find the Largest Number in a List
-Program to Find the Second Largest Number in a List
-Program to Put Even and Odd elements in a List into Two Different Lists
-Program to Merge Two Lists and Sort it
-Program to Sort the List According to the Second Element in Sublist
-Program to Find the Second Largest Number in a List Using Bubble Sort
+
+
+
+
+
+
 Program to Sort a List According to the Length of the Elements
-Program to Find the Union of two Lists // done
+
 Program to Find the Intersection of Two Lists  // half
 Program to Create a List of Tuples with the First Element as the Number and Second Element as the Square of the Number
 Program to Find all Numbers in a Range which are Perfect Squares and Sum of all Digits in the Number is Less than 10
 Program to Find the Cumulative Sum of a List where the ith Element is the Sum of the First i+1 Elements From The Original List
-Program to Generate Random Numbers from 1 to 20 and Append Them to the List // done
+
 program to Sort a List of Tuples in Increasing Order by the Last Element in Each Tuple
-Program to Swap the First and Last Value of a List // done
-Program to Remove the Duplicate Items from a List  // done
+
+
 Program to Read a List of Words and Return the Length of the Longest One  // remain
 Program to Remove the ith Occurrence of the Given Word in a List where Words can Repeat
 Program to Remove All Tuples in a List of Tuples with the USN Outside the Given Range
 Program to solve Maximum Subarray Problem using Divide and Conquer
 Program to solve Maximum Subarray Problem using Kadane’s Algorithm
 Program to Find Element Occurring Odd Number of Times in a List
-Program to Replace all Occurrences of ‘a’ with $ in a String
+
 Program to Remove the nth Index Character from a Non-Empty String
-Program to Detect if Two Strings are Anagrams
-Program to Form a New String where the First Character and the Last Character have been Exchanged
-Program to Count the Number of Vowels in a String
-Program to Take in a String and Replace Every Blank Space with Hyphen
-Program to Calculate the Length of a String Without Using a Library Function
-Program to Remove the Characters of Odd Index Values in a String
-Program to Calculate the Number of Words and the Number of Characters Present in a String
-Program to Take in Two Strings and Display the Larger String without Using Built-in Functions
-Program to Count Number of Lowercase Characters in a String
+
+
+
+
+
+
+
+
+
 Program to Check if a String is a Palindrome or Not
-Program to Calculate the Number of Upper Case Letters and Lower Case Letters in a String
+
 Program to Check if a String is a Pangram or Not
 Program to Accept a Hyphen Separated Sequence of Words as Input and Print the Words in a Hyphen-Separated Sequence after Sorting them Alphabetically
-Program to Calculate the Number of Digits and Letters in a String
-Program to Form a New String Made of the First 2 and Last 2 characters From a Given String
+
+
 Program to Count the Occurrences of Each Word in a Given String Sentence
-Program to Check if a Substring is Present in a Given String
+
 Program to Print All Permutations of a String in Lexicographic Order without Recursion
 Program to Print All Permutations of a String in Lexicographic Order using Recursion
 Program to Add a Key-Value Pair to the Dictionary
@@ -118,11 +118,11 @@ Program that Displays which Letters are Present in Both the Strings
 Program that Displays which Letters are in the Two Strings but not in Both
 Program to Determine Whether a Given Number is Even or Odd Recursively
 Program to Determine How Many Times a Given Letter Occurs in a String Recursively
-Program to Find the Fibonacci Series Using Recursion   // done
-Program to Find the Factorial of a Number Using Recursion  // done
-Program to Find the Sum of Elements in a List Recursively  // done
+
+
+
 Program to Find the Binary Equivalent of a Number Recursively  
-Program to Find the Sum of the Digits of the Number Recursively  //Done
+
 Program to Find the LCM of Two Numbers Using Recursion
 Program to Find the GCD of Two Numbers Using Recursion
 Program to Find if a Number is Prime or Not Prime Using Recursion
@@ -133,7 +133,7 @@ Program to Reverse a String Using Recursion
 Program to Flatten a Nested List using Recursion
 Program to Find the Total Sum of a Nested List Using Recursion
 Program to Find the Length of a List Using Recursion
-Program to Find the Fibonacci Series without Using Recursion  // done
+
 Program to find the factorial of a number without recursion
 Program to Flatten a List without using Recursion
 Program to Reverse a String without using Recursion
