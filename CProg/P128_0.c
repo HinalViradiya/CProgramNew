@@ -4,12 +4,12 @@
 int findPrime(int no, int i)
 {
 
-    if (no % 2 == 0)
+    if (no == i)
         return 0;
-    if (no == 2)
-        return 0;
-
-    // return result;
+    else if (no % i == 0)
+        return 1;
+    else
+        return findPrime(no, i + 1);
 }
 
 int main()
@@ -19,7 +19,7 @@ int main()
     printf("\nEnter the No:");
     scanf("%d", &no);
 
-    printf(findPrime(no, i) == 1 ? "\nNo Is Prime" : "\nNo is Not Prime");
+    printf(findPrime(no, 2) == 0 ? "\nNo Is Prime" : "\nNo is Not Prime");
 
     return 0;
 }

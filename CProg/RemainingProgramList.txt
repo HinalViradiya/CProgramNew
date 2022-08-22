@@ -73,7 +73,7 @@ Program to Find the Cumulative Sum of a List where the ith Element is the Sum of
 program to Sort a List of Tuples in Increasing Order by the Last Element in Each Tuple
 
 
-Program to Read a List of Words and Return the Length of the Longest One  // remain
+Program to Read a List of Words and Return the Length of the Longest One  
 Program to Remove the ith Occurrence of the Given Word in a List where Words can Repeat
 Program to Remove All Tuples in a List of Tuples with the USN Outside the Given Range
 Program to solve Maximum Subarray Problem using Divide and Conquer
@@ -90,9 +90,9 @@ Program to Remove the nth Index Character from a Non-Empty String
 
 
 
-Program to Check if a String is a Palindrome or Not
 
-Program to Check if a String is a Pangram or Not
+
+
 Program to Accept a Hyphen Separated Sequence of Words as Input and Print the Words in a Hyphen-Separated Sequence after Sorting them Alphabetically
 
 
@@ -121,20 +121,20 @@ Program to Determine How Many Times a Given Letter Occurs in a String Recursivel
 
 
 
-Program to Find the Binary Equivalent of a Number Recursively  
+  
 
-Program to Find the LCM of Two Numbers Using Recursion
-Program to Find the GCD of Two Numbers Using Recursion
-Program to Find if a Number is Prime or Not Prime Using Recursion
-Program to Find the Product of two Numbers Using Recursion
-Program to Find the Power of a Number Using Recursion
-Program to Check Whether a String is a Palindrome or not Using Recursion
-Program to Reverse a String Using Recursion
+
+
+
+
+
+
+
 Program to Flatten a Nested List using Recursion
 Program to Find the Total Sum of a Nested List Using Recursion
 Program to Find the Length of a List Using Recursion
 
-Program to find the factorial of a number without recursion
+
 Program to Flatten a List without using Recursion
 Program to Reverse a String without using Recursion
 Program to Find the Binary Equivalent of a Number without Using Recursion
